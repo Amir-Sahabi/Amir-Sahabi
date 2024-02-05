@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Sahabi</h1>
-<h3 align="center">Junior Backend Developer | .Net | C#</h3>
+<h3 align="center">Junior Backend Developer | .Net Core | C#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsahabi&label=Profile%20views&color=0e75b6&style=flat" alt="amirsahabi" /> </p>
 
